@@ -14,6 +14,7 @@ public class comparsion {
 		System.out.println(a!=0);
 		System.out.println(a>=b);
 		System.out.println(a=b);
+		kjnvddksdlkj
 		// TODO Auto-generated method stub
 
 	}
