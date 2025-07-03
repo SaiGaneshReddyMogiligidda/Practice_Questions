@@ -3,8 +3,8 @@ package baisc;
 public class comparsion {
 
 	public static void main(String[] args) {
-		int a=10;
-		int b=20;
+		int a=40;
+		int b=69;
 		System.out.println("A="+a);
 		System.out.println("B="+b);
 		System.out.println(a==b);
